@@ -1,0 +1,18 @@
+{
+    "token": "BOTUNUZUN TOKENI",
+    "log": "TEŞEKKÜR LOG KANALI ID",
+    "aways": [
+      {
+        "role": "3 TEŞEKKÜRDE ALINACAK ROL ID",
+        "MZRty_size": 3
+      },
+      {
+        "role": "5 TEŞEKKÜRDE ALINACAK ROL ID",
+        "MZRty_size": 5
+      },
+      {
+        "role": "10 TEŞEKKÜRDE ALINACAK ROL ID",
+        "MZRty_size": 10
+      }
+    ]
+}

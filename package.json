@@ -1,0 +1,20 @@
+{
+  "name": "mzrdevelopment",
+  "version": "0.0.1",
+  "description": "Teşekkür Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "ZeKe",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^1.0.0",
+    "ascii-table": "^0.0.9",
+    "croxydb": "^0.0.7",
+    "discord.js": "^14.0.1",
+    "fs": "^0.0.1-security",
+    "glob": "^9.2.1"
+  }
+}
