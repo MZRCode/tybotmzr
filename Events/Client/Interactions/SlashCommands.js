@@ -29,8 +29,8 @@ module.exports = {
                 content: "Bu Komutun Yenisi Çıktı",
                 ephemeral: true
             });
-            subCommandFile.execute(interaction, client);
-        } else command.execute(interaction, client);
+            subCommandFile.execute();
+        } else command.execute();
 
         const { InteractionType } = require("discord.js");
       const Discord = require("discord.js");
