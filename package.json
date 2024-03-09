@@ -1,13 +1,16 @@
 {
   "name": "mzrdevelopment",
   "version": "0.0.1",
-  "description": "Teşekkür Bot",
+  "description": "YouTube: MZR Development / @MZRDev",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "keywords": [],
-  "author": "ZeKe",
+  "keywords": [
+    "mzr-development",
+    "mzrdev"
+  ],
+  "author": "mzrdev",
   "license": "ISC",
   "dependencies": {
     "@discordjs/builders": "^1.0.0",
@@ -15,6 +18,8 @@
     "croxydb": "^0.0.7",
     "discord.js": "^14.0.1",
     "fs": "^0.0.1-security",
-    "glob": "^9.2.1"
+    "glob": "^9.2.1",
+    "mzrdjs": "^0.0.27",
+    "mzrdb": "^1.1.0"
   }
 }
